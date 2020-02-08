@@ -58,7 +58,7 @@ public class WebSampleTest extends AbstractTest {
         
         //Closing advertising if it's displayed
         homePage.getWeValuePrivacyAd().closeAdIfPresent();
-        
+        //bjahsfsahfsa
         // Select phone brand
         homePage = new HomePage(getDriver());
         BrandModelsPage productsPage = homePage.selectBrand(brand);
